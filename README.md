@@ -1,6 +1,11 @@
 # TICHART
 Display Technical Indicator for chart 
 
-Zedgraph Control
+Using Zedgraph control
 
-![Alt text](/path/to/chart1.png)
+# Normal 
+![Alt text](/chart1.png)
+# Add Technical Indicator (Click Cell)
+![Alt text](/chart2.png)
+# Applied 
+![Alt text](/chart3.png)
