@@ -1,0 +1,24 @@
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.exe.config
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.exe
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.pdb
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\ZedGraph.dll
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csprojAssemblyReference.cache
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating_Technical_Indicator.CTI.resources
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating_Technical_Indicator.Properties.Resources.resources
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.GenerateResource.cache
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.CoreCompileInputs.cache
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.CopyComplete
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.exe
+C:\Users\ytson\Desktop\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.pdb
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.exe.config
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.exe
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\Calculating Technical Indicator.pdb
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\bin\Debug\ZedGraph.dll
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csprojAssemblyReference.cache
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating_Technical_Indicator.CTI.resources
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating_Technical_Indicator.Properties.Resources.resources
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.GenerateResource.cache
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.CoreCompileInputs.cache
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.csproj.CopyComplete
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.exe
+C:\Users\ytson\OneDrive\Documents\C#\Calculating Technical Indicator\Calculating Technical Indicator\obj\Debug\Calculating Technical Indicator.pdb
