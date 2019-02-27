@@ -2,6 +2,8 @@
 Display Technical Indicator for chart 
 
 Using Zedgraph control
+- Zoomable, wheel or drag
+- Auto resizing the x and y scale by zoomEvent
 
 The csv file is samsung electronics(KRX:005930)
 you can change the path or file, but you have to follow the 
